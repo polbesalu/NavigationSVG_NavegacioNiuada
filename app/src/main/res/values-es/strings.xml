@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NavigationSVG</string>
+    <string name="navegaci_niuada">Navegación Niuada</string>
+    <string name="catGos">CategoriaPerros</string>
+    <string name="catCotxe">CategoriaCoches</string>
+    <string name="catGuerrer">CategoriaGuerreros</string>
+    <string name="id_cotxe">"Id cotche: "</string>
+    <string name="velocitat_m_x">"Velocidad max: "</string>
+    <string name="cavalls_de_pot_ncia">"Cavallos de poténcia: "</string>
+    <string name="kilometratge">"Kilometrage: "</string>
+    <string name="guerrer">Guerrero</string>
+    <string name="puntuaci_del_gos">"Puntuación del perro: "</string>
+    <string name="id_del_gos">"Id del perro: "</string>
+    <string name="gos">Perro</string>
+    <string name="nom">"Nombre: "</string>
+    <string name="defensa">"Defensa: "</string>
+    <string name="atac">"Ataque: "</string>
+    <string name="resist_ncia">"Resisténcia: "</string>
+    <string name="for_a">"Fuerza: "</string>
+    <string name="edat">"Edad: "</string>
+    <string name="id_del_guerrer">"Id del guerrero: "</string>
+    <string name="guerrer_">Guerrero</string>
+    <string name="nom_">Nombre:</string>
+    <string name="puntuacio">"Puntuación: "</string>
+    <string name="superguerrer">Superguerrero</string>
+</resources>
